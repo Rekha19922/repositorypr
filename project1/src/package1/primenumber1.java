@@ -23,6 +23,7 @@ for(int i=2;i<=num-1;i++)
 		else
 		{
 			System.out.println("Number is prime");
+			System.out.println("Number is prime");
 		}
 	}
 
